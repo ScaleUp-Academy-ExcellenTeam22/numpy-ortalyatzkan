@@ -3,7 +3,7 @@ import numpy as np
 
 def replace_equal_number(arr: np.array, num_comp: int, num_replace: int) -> np.array:
     """
-    A function that gets an array and a number and replaces all the numbers in the array that are equal to the number.    :param arr:
+    A function that gets an array and a number and replaces all the numbers in the array that are equal to the number.
     :param arr:Array for replace.
     :param num_comp:Number for comparison.
     :param num_replace:Number replace it with all the numbers for which the condition is correct.
