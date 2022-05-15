@@ -20,6 +20,6 @@ def sort_array_along_last_axis(array: np.array) -> np.array:
 
 
 if __name__ == '__main__':
-    arr = np.array([[2, 1],[4 ,6]])
+    arr = np.array([[2, 1], [4, 6]])
     print(sort_array_along_first_axis(arr))
     print(sort_array_along_last_axis(arr))
